@@ -1,0 +1,15 @@
+streamlit==1.37.1
+python-dotenv==1.0.1
+
+langgraph==0.2.35
+langchain==0.3.3
+langchain-openai==0.2.2
+
+pandas==2.2.2
+numpy==2.0.1
+matplotlib==3.9.2
+
+pysam==0.22.1
+cyvcf2==0.30.28
+
+scikit-learn==1.5.2
