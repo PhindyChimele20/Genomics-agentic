@@ -1,4 +1,4 @@
-#  Genomics Agentic Research Copilot (Streamlit)
+#  Genomics Agentic Research   AI (Streamlit)
 
 Agentic AI assistant for MSc/PhD genomics workflows: planning, file inspection, pipeline generation, and interpretation.
 
